@@ -1,6 +1,6 @@
 # Autocomplete
 
-## This project contains three different methods to implement an auto-completing interface. 
+## This project contains three different methods to implement an auto-completing application. 
 ###Each class implements the Autocompletor interface to maintain modular programming.
 
 ### 1. BruteAutocomplete
